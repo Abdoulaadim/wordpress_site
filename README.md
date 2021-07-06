@@ -32,7 +32,7 @@
 
 9-Adaptation le contenu avec elementor
 
-10- Création des  pages
+10- Création des  pages  
 
 11-Username or Email Address=bref7   /    Password : abdoulaadim
 
