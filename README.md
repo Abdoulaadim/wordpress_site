@@ -25,4 +25,5 @@
 8-Télécharger et installer les plugin "Contact Form 7","Post Tags and Categories for Pages","Elmentor","Recent Posts Widget With Thumbnails","Visual Footer Credit Remover"
 9-Adaptation le contenu avec elementor
 10- Création des  pages
+11-Username or Email Address=bref7   /     Password : abdoulaadim
 
