@@ -1,0 +1,22 @@
+#jabvfcr_selector-top, #jabvfcr_selector-bottom {
+	background: grey;
+	height:3px;
+	position: fixed;
+    transition:all 300ms ease;
+    z-index: 100000;
+}
+#jabvfcr_selector-left, #jabvfcr_selector-right {
+	background: grey;
+	width:3px;
+	position: fixed;
+    transition:all 300ms ease;
+    z-index: 100000;
+}
+
+.n {
+ -webkit-transform: scale(3) translateX(100px)   
+}
+
+body {
+	cursor: pointer;
+}
